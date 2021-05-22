@@ -4,7 +4,7 @@ server:
 spring:
   datasource:
     driverClassName: org.postgresql.Driver
-    url: jdbc:postgresql://autenticacion_db:5432/english_db
+    url: jdbc:postgresql://autenticacion_db:5433/english_db
     username: "english_user"
     password: "english123"
   jpa:
